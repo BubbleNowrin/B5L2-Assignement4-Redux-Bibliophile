@@ -1,4 +1,4 @@
-# 📚 Minimal Library Management System
+# 📚 BiblioPhile
 
 A modern, fully responsive library management system built with React 19, TypeScript, Vite, Redux and Tailwind CSS. Effortlessly manage books, borrowing, and library stats with a beautiful, intuitive UI.
 
